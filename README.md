@@ -8,14 +8,7 @@ ________________________________________________________________________________
 2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
 3. Write SQL scripts to answer all questions below. 
 4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
-5. Add file solution.sql to the same repo
-
-### Learning Objectives:
-
-- Write basic SELECT statements to retrieve data from a table.
-- Use WHERE clause to filter data based on specific conditions.
-- Apply aggregate functions (COUNT) to calculate totals.
-- Combine WHERE clause with logical operators (e.g., AND) for complex filtering.
+5. Add file solution.sql to the same repo.
 __________________________________________________________________________________________________
 
 ## Write SQL commands to do the following: 
