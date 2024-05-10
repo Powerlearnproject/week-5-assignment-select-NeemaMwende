@@ -4,7 +4,7 @@ This assignment will help you practice writing Structured Query Language (SQL) q
 __________________________________________________________________________________________________
 ## Instructions (Read and follow instructions)
 
-1. Download 8Week.sql file/database from this repo.
+1. Download 5Week_movies.sql file/database from this repo.
 2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
 3. Write SQL scripts to answer all questions below. 
 4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
