@@ -10,7 +10,7 @@ ________________________________________________________________________________
 4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
 5. Add file solution.sql to the same repo
 
-## Learning Objectives:
+### Learning Objectives:
 
 - Write basic SELECT statements to retrieve data from a table.
 - Use WHERE clause to filter data based on specific conditions.
