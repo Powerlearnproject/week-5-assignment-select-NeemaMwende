@@ -1,22 +1,48 @@
-# Week 5 Assignment: SELECT 
+# Week 5: Databases and Web Applications - Bridging the Gap 
 
-This assignment will help you practice writing Structured Query Language (SQL) queries to retrieve and analyze data from a relational database. You'll be working with a table named "Movies" containing information about movie titles, directors, genres, and release years.
-__________________________________________________________________________________________________
-## Instructions (Read and follow instructions)
+Great work last week! You've mastered data manipulation in your Expense Tracker. This week, we'll delve into the exciting connection between databases and web applications, even though we won't be coding the actual connection yet.
 
-1. Download 5Week_movies.sql file/database from this repo.
-2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
-3. Write SQL scripts to answer all questions below. 
-4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
-5. Add file solution.sql to the same repo.
-__________________________________________________________________________________________________
+## Understanding the Connection:
 
-## Write SQL commands to do the following: 
+Imagine you're browsing a social media platform. When you see posts from your friends, a web application interacts with a database in the background, retrieving relevant data (posts, comments, etc.). This magic happens through a powerful connection, but how?
 
-1. List all movie titles:
-2. Find all movies directed by Christopher Nolan:
-3. How many movies are in the Crime genre?
-4. Show movies released after 2005:
-5. List all Thriller movies with their release year:
+## Exploring Database Options:
 
+There's a range of database server options available, each with its strengths:
 
+MySQL: A widely used open-source relational database management system (RDBMS) known for its flexibility and ease of use.
+PostgreSQL: Another powerful open-source RDBMS offering advanced features like object-relational capabilities.
+Microsoft SQL Server: A robust commercial RDBMS solution from Microsoft, often used in enterprise environments.
+Oracle Database: A high-performance commercial RDBMS known for its scalability and security features.
+Node.js: While not strictly a database server, Node.js is a popular server-side JavaScript runtime environment often used for building web applications. Node.js can interact with various databases using libraries and frameworks.
+
+## Learning the Universal Language - SQL:
+
+Regardless of the database server, SQL (Structured Query Language) acts as the common language for communication. It allows applications to interact with databases and perform various operations like:
+
+Retrieving Data: SELECT statements fetch specific data from database tables.
+Inserting Data: INSERT statements add new records to the database.
+Updating Data: UPDATE statements modify existing data within a database.
+Deleting Data: DELETE statements remove unwanted records from the database.
+
+## Questions (2 hours):
+
+1.1. Database Server Comparison:  
+Create a table comparing the following database server options (focusing on its role as a web application environment): 
+* MySQL
+* PostgreSQL
+* Microsoft SQL Server
+* Oracle Database
+* Node.js 
+
+**Include details like (Tabulate):**
+
+1. Type (Open-Source/Commercial)
+2. Target Audience
+3. Key Features
+4. Ease of Use
+
+## Bonus: 
+Hands-on SQL Practice: 
+
+Explore Node.js database SQL interaction capabilities and writing basic SQL queries. Write at least three SELECT statements to retrieve data from a sample database of your choice. 
