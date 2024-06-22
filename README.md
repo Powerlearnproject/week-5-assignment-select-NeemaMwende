@@ -11,9 +11,13 @@ Imagine you're browsing a social media platform. When you see posts from your fr
 There's a range of database server options available, each with its strengths:
 
 MySQL: A widely used open-source relational database management system (RDBMS) known for its flexibility and ease of use.
+
 PostgreSQL: Another powerful open-source RDBMS offering advanced features like object-relational capabilities.
+
 Microsoft SQL Server: A robust commercial RDBMS solution from Microsoft, often used in enterprise environments.
+
 Oracle Database: A high-performance commercial RDBMS known for its scalability and security features.
+
 Node.js: While not strictly a database server, Node.js is a popular server-side JavaScript runtime environment often used for building web applications. Node.js can interact with various databases using libraries and frameworks.
 
 ## Learning the Universal Language - SQL:
