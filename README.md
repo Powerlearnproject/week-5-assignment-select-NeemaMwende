@@ -25,8 +25,11 @@ Node.js: While not strictly a database server, Node.js is a popular server-side 
 Regardless of the database server, SQL (Structured Query Language) acts as the common language for communication. It allows applications to interact with databases and perform various operations like:
 
 Retrieving Data: SELECT statements fetch specific data from database tables.
+
 Inserting Data: INSERT statements add new records to the database.
+
 Updating Data: UPDATE statements modify existing data within a database.
+
 Deleting Data: DELETE statements remove unwanted records from the database.
 
 ## Questions (2 hours):
