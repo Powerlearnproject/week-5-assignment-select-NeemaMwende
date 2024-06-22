@@ -66,4 +66,4 @@ Here are some ideas to get you started:
 3. Connect the form to a Node.js server that interacts with the database using SQL queries.
 4. Write at least three SELECT statements to retrieve relevant data from the database.
    
-Remember: This bonus section provides a starting point for independent practice. Connecting HTML projects to Node.js servers and interacting with databases involves additional concepts that will be covered in future sessions or separate exercises.
+Push this project to this github repo as well
