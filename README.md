@@ -42,7 +42,21 @@ Create a table comparing the following database server options (focusing on its 
 3. Key Features
 4. Ease of Use
 
-## Bonus: 
-Hands-on SQL Practice: 
+## Bonus: Hands-on SQL Practice (Optional):
 
-Explore Node.js database SQL interaction capabilities and writing basic SQL queries. Write at least three SELECT statements to retrieve data from a sample database of your choice. 
+This section is an optional bonus for those who want to explore further. It will be covered in the Web Development module in detail, but the concepts will be helpful for this section.
+
+Explore Node.js database SQL interaction capabilities for a simple HTML project (e.g., sign in/sign up pages).
+
+**The goal is to:**
+
+* Connect the project to a Node.js server.
+* Write basic SQL queries to retrieve data from a sample database of your choice.
+Here are some ideas to get you started:
+
+1. Create an admin table and add it to the database you used in week 4.
+2. Create a basic HTML form for user login or searching for items.
+3. Connect the form to a Node.js server that interacts with the database using SQL queries.
+4. Write at least three SELECT statements to retrieve relevant data from the database.
+   
+Remember: This bonus section provides a starting point for independent practice. Connecting HTML projects to Node.js servers and interacting with databases involves additional concepts that will be covered in future sessions or separate exercises.
